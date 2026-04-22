@@ -144,4 +144,4 @@ Dashboard includes a cleanup action:
 
 ## License
 
-This project is for educational/lab use. Add a formal license file if you plan to publish publicly.
+This project is for educational/lab use only.
